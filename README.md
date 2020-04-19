@@ -15,3 +15,5 @@ Reproducibility of paper
 - basics of knowledge distillation
 - power of knowledge distillation with tranferset
 - setting temperature hyperparameters based on the number of units in the hidden layer
+
+## For complete explanation check: https://medium.com/@arvindwaskarthik/6f469066be7e
